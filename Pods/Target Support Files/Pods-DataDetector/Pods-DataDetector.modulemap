@@ -1,0 +1,6 @@
+framework module Pods_DataDetector {
+  umbrella header "Pods-DataDetector-umbrella.h"
+
+  export *
+  module * { export * }
+}
